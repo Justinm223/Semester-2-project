@@ -1,0 +1,71 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+
+}
+
+img {
+    width: 350px;
+    text-align: left;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 800;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 24px;
+    color: black;
+}
+
+.section1images {
+    display: flex;
+    justify-content: center;
+}
+
+.section1buttons {
+    display: flex;
+    justify-content: center;
+}
+
+Body {
+    Background-color: #000080;
+}
+
+h1 {
+    color: #896300;
+}
+
+.option-one-screen {
+    display: none;
+}
+
+
+
+.option-two-screen {
+    display: none;
+}
+
+
+
+.optiononeend {
+    display: none;
+}
+
+
+
+.option-two-end {
+    display: none;
+}
